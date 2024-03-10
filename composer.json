@@ -5,7 +5,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Lava\\Ultrapluton\\": "src/"
+            "Ultrapluton\\": "src/Ultrapluton"
         }
     },
     "authors": [
@@ -15,5 +15,7 @@
         }
     ],
     "minimum-stability": "alpha",
-    "require": {}
+    "require": {
+        "ext-pdo": "*"
+    }
 }
