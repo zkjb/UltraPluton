@@ -1,0 +1,19 @@
+{
+    "name": "lava/ultrapluton",
+    "description": "Ultra Pluton est un framework PHP",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Lava\\Ultrapluton\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "zkjb",
+            "email": "zambikouame@gmail.com"
+        }
+    ],
+    "minimum-stability": "alpha",
+    "require": {}
+}
